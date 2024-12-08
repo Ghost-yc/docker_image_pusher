@@ -1,2 +1,2 @@
-linuxserver/plex --platform=linux/arm64 
+ --platform=linux/arm64 linuxserver/plex
 
